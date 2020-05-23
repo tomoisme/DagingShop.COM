@@ -1,0 +1,7 @@
+baseURL = ""
+languageCode = "id-ID"
+title = "Supplier Daging Sapi, Ayam Dan Seafood (Udang, Kepiting, Ikan Laut, Dll)"
+assetDir = "static"
+paginate = 1
+[taxonomies]
+    tag="#"
